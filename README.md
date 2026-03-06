@@ -1,8 +1,6 @@
-# soloLogin
+# crudGenerico
 
-Sistema web para el **logueo de usuario generico que debe agregarse a cualquier proyecto**.
-
-La aplicación permite logueo de usuarios aplicable a cualwuier desarrollo, utilizando una arquitectura web moderna basada en **FastAPI**.
+Crud generico para agregar a cualquier proyecto
 
 
 ---
@@ -45,7 +43,7 @@ git push
 ###  Clonar el repositorio
 
     ```bash
-    git clone https://github.com/sistemas9dj/soloLogin.git
-    cd soloLogin
+    git clone https://github.com/sistemas9dj/crudGenerico.git
+    cd crudGenerico
 
 
